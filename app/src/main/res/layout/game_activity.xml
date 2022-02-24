@@ -68,7 +68,7 @@
            android:layout_width="match_parent"
            android:layout_height="match_parent"
            android:layout_weight="1"
-           android:background="@drawable/border""/>
+           android:background="@drawable/border"/>
    </LinearLayout>
 
     <LinearLayout
@@ -86,13 +86,13 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/border""/>
+            android:background="@drawable/border"/>
 
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/border""/>
+            android:background="@drawable/border"/>
 
     </LinearLayout>
 
