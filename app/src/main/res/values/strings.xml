@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Tres_raya</string>
+    <string name="app_name">Tres raya</string>
+    <string name="player1_string">Player 1</string>
+    <string name="player2_string">Player 2</string>
 </resources>
