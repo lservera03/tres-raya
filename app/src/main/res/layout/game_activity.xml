@@ -57,13 +57,13 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:background="@drawable/border">
-           <Button
+
+           <ImageButton
+               android:id="@+id/button00"
                android:layout_width="match_parent"
                android:layout_height="match_parent"
                android:backgroundTint="@android:color/white"
-               android:text="@string/Button_tres_en_raya"
-               android:textColor="@android:color/black"
-               style="?android:attr/borderlessButtonStyle"/>
+               android:textColor="@android:color/black" />
        </FrameLayout>
 
        <FrameLayout
@@ -71,13 +71,11 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:background="@drawable/border">
-           <Button
+           <ImageButton
+               android:id="@+id/button01"
                android:layout_width="match_parent"
                android:layout_height="match_parent"
-               android:backgroundTint="@android:color/white"
-               android:text="@string/Button_tres_en_raya"
-               android:textColor="@android:color/black"
-               style="?android:attr/borderlessButtonStyle"/>
+               android:backgroundTint="@android:color/white"/>
        </FrameLayout>
 
        <FrameLayout
@@ -85,13 +83,11 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:background="@drawable/border">
-           <Button
+           <ImageButton
+               android:id="@+id/button02"
                android:layout_width="match_parent"
                android:layout_height="match_parent"
-               android:backgroundTint="@android:color/white"
-               android:text="@string/Button_tres_en_raya"
-               android:textColor="@android:color/black"
-               style="?android:attr/borderlessButtonStyle"/>
+               android:backgroundTint="@android:color/white"/>
        </FrameLayout>
    </LinearLayout>
 
@@ -105,13 +101,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button10"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
 
         <FrameLayout
@@ -119,13 +113,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button11"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
 
         <FrameLayout
@@ -133,13 +125,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button12"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
 
     </LinearLayout>
@@ -154,13 +144,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button20"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
 
         <FrameLayout
@@ -168,13 +156,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button21"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
 
         <FrameLayout
@@ -182,13 +168,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/border">
-            <Button
+            <ImageButton
+                android:id="@+id/button22"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:backgroundTint="@android:color/white"
-                android:text="@string/Button_tres_en_raya"
-                android:textColor="@android:color/black"
-                style="?android:attr/borderlessButtonStyle"/>
+                android:backgroundTint="@android:color/white"/>
         </FrameLayout>
     </LinearLayout>
 
