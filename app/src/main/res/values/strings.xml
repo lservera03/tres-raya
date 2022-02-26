@@ -2,6 +2,10 @@
     <string name="app_name">Tres raya</string>
     <string name="player1_string">Player 1</string>
     <string name="player2_string">Player 2</string>
+    <string name="position_error_string">This position is not empty!</string>
     <string name="player1_turn_string">Player 1 turn</string>
     <string name="player2_turn_string">Player 2 turn</string>
+    <string name="player1_won_string">Player 1 won!</string>
+    <string name="player2_won_string">Player 2 won!</string>
+    <string name="tie_string">Tie!</string>
 </resources>
