@@ -2,4 +2,6 @@
     <string name="app_name">Tres raya</string>
     <string name="player1_string">Player 1</string>
     <string name="player2_string">Player 2</string>
+    <string name="player1_turn_string">Player 1 turn</string>
+    <string name="player2_turn_string">Player 2 turn</string>
 </resources>
